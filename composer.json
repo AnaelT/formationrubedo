@@ -1,5 +1,5 @@
 {
-  "name": "adobre/formationrubedo",
+  "name": "atessier/formationrubedo",
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.4.0"
