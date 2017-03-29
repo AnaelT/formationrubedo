@@ -1,11 +1,11 @@
 {
-  "name": "adobre/formationnrcom",
+  "name": "adobre/formationrubedo",
   "minimum-stability": "dev",
   "require": {
     "php": ">=5.4.0"
   },
   "autoload": {
-    "classmap": ["src/Formationnrcom"]
+    "classmap": ["src/Formationrubedo"]
   },
   "config": {
     "process-timeout": 600
