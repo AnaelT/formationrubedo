@@ -1,5 +1,5 @@
 <?php
-namespace Formationnrcom;
+namespace Formationrubedo;
 class Module
 {
     public function getConfig()
